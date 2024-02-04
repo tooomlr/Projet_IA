@@ -25,15 +25,17 @@ Now you can interact with the chatbot, and it will utilize your crypto dataset t
 ### Query about Bitcoin (BTC)
 
 Let's say, data.txt contains information about Bitcoin:
-
+ ```
 python chatgpt.py "what is BTC?"
+ ```
 Your chatbot will return information about BTC.
 
 ### Query about Ethereum (ETH)
 
 In this case, data.txt contains information about Ethereum:
-
+ ```
 python chatgpt.py "what is ETH?"
+ ```
 Your chatbot will return information about ETH.
 
 Each time you interact with your chatbot, it will look through the data files in your data/ directory and use the information in those files to generate a response.
