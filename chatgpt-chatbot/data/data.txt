@@ -1,0 +1,42 @@
+Bitcoin (BTC)
+
+Le Bitcoin est la première et la plus populaire cryptomonnaie au monde. Il a été inventé en 2008 par une entité connue sous le pseudonyme de Satoshi Nakamoto et lancé en 2009. L'identité réelle de Satoshi Nakamoto est toujours inconnue.
+
+Le Bitcoin fonctionne sur une technologie appelée blockchain, qui est un type de base de données décentralisée utilisée pour enregistrer les transactions. Le réseau est maintenu par des noeuds qui vérifient les transactions et les ajoutent à la blockchain.
+
+Pour créer de nouveaux bitcoins, un processus appelé minage est utilisé. Les mineurs utilisent une grande quantité d'énergie et de puissance de calcul pour résoudre des problèmes mathématiques complexes. Une fois le problème résolu, un nouveau bloc est ajouté à la blockchain et l'équivalent d'un certain nombre de bitcoins est créé.
+
+Le nombre de bitcoins qui peuvent être créés est limité à 21 millions. Cela a été programmé pour éviter l'inflation, une caractéristique unique parmi les devises. En effet, les devises traditionnelles peuvent être émises en quantités illimitées par les banques centrales.
+
+Le Bitcoin peut être utilisé de manière anonyme, ce qui a fait de lui un choix populaire pour les transactions illicites. Toutefois, il est de plus en plus accepté par les détaillants traditionnels et est devenu un véhicule d'investissement populaire.
+
+Ethereum (ETH)
+
+L'Ethereum a été créé en 2015 par le programmeur et co-fondateur de Bitcoin Magazine, Vitalik Buterin. Il a développé l'Ethereum en réponse à des limitations qu'il a identifiées dans le Bitcoin. Il voulait créer une plateforme avec un langage de programmation plus général que celui de Bitcoin.
+
+L'Ethereum est construit autour d'une blockchain, comme le Bitcoin, mais il peut faire bien plus que simplement enregistrer les transactions. La plateforme Ethereum permet le développement d'applications décentralisées (dApps) et le déploiement de contrats intelligents.
+
+Un contrat intelligent est un programme qui automatise l'exécution des termes d'un contrat. Par exemple, un contrat intelligent pourrait être utilisé pour automatiser les paiements de loyer à partir d'une banque à un propriétaire dès qu'un certain jour du mois arrive.
+
+La monnaie native d'Ethereum est le Ether (ETH). Il est utilisé pour les transactions financières au sein du réseau Ethereum, mais il est également utilisé pour "alimenter" les contrats intelligents et les dApps. Cette "énergie" s'appelle Gas et elle contribue à sécuriser le réseau en rendant coûteux le lancement d'attaques contre lui.
+
+Contrairement à Bitcoin, il n'y a pas de limite à combien d'ethers peuvent être créés. Cependant, il y a des règles sur la façon dont ils sont émis. Actuellement, la majorité des ethers sont créés par les mineurs qui ajoutent de nouveaux blocs à la blockchain.
+
+En plus de son utilisation comme une cryptomonnaie, Ethereum est utilisé pour développer et exécuter des applications allant des jeux à la finance décentralisée (DeFi), qui utilise la technologie blockchain pour remplacer les intermédiaires financiers traditionnels comme les banques.
+
+
+Solana (SOL)
+
+Solana est une plateforme de blockchain haute performance connue pour sa rapidité et sa capacité à traiter un grand nombre de transactions simultanées. Lancée en 2020 par l'ingénieur de Qualcomm et ancien ingénieur logiciel de Dropbox, Anatoly Yakovenko, Solana vise à résoudre les problèmes d'évolutivité qui ont longtemps plaqué les blockchains traditionnelles.
+
+La vitesse de transaction sur le réseau Solana est incroyablement rapide grâce à une innovation technologique connue sous le nom d'horodatage Proof-of-History (PoH), inventée par Yakovenko. Le Proof-of-History prend des instantanés du réseau à des moments spécifiques, ce qui permet une meilleure synchronisation et une plus grande capacité d'évolutivité. Solana peut traiter environ 65 000 transactions par seconde, rendant ses vitesses de transaction parmi les plus rapides de toutes les cryptomonnaies.
+
+La monnaie native de Solana est appelée SOL. Les détenteurs de SOL peuvent en staker (c'est-à-dire les engager dans le réseau Solana pour contribuer à la sécurité et à l'évolutivité du réseau) pour générer un rendement.
+
+Solana facilite la création d'applications décentralisées (dApps) et de plateformes financières décentralisées. Sorare, un site d'échange de cartes de football numériques, et Serum, un échange décentralisé, sont parmi les projets notables construits sur Solana.
+
+Au-delà de ces utilisations, Solana est également une pièce d'investissement attrayante pour les traders et investisseurs de cryptomonnaies en raison de sa rapidité de transaction et de ses faibles frais de transaction.
+
+Une caractéristique intéressante de Solana qui le distingue des autres blockchains est sa proposition de valeur en tant que Web 3.0. Web 3.0 est le concept d'un Internet décentralisé alimenté par les blockchains, où les utilisateurs ont le contrôle de leurs propres données.
+
+Néanmoins, investir dans Solana, comme toutes les cryptomonnaies, comporte des risques. Solana a connu une croissance rapide en 2021, mais comme toutes les cryptomonnaies, son prix a également connu une volatilité importante.
