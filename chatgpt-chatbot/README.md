@@ -17,7 +17,7 @@ pip install langchain openai chromadb tiktoken unstructured langchain-community 
 ```
 
 ### Step 3. Setup OpenAI API Key:
-Modify constants.py.default with your own OpenAI API key, and rename it to constants.py.
+Modify constants.py with your own OpenAI API key.
 
 ### Example Usage 
 Now you can interact with the chatbot, and it will utilize your crypto dataset to provide the responses. Here are a couple of example interactions:
