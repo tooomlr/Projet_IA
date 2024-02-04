@@ -4,6 +4,11 @@ This is a simple script to create a conversational chatbot focused on cryptocurr
 ## Installation
  ### Step 1. Clone the repository and navigate to the project folder:
  ```
+git clone https://github.com/tooomlr/Projet_IA.git
+
+```
+ 
+ ```
 cd chatgpt-retrieval-chatbot
 ```
 ### Step 2. Install Required Packages:
