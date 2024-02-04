@@ -5,11 +5,10 @@ This is a simple script to create a conversational chatbot focused on cryptocurr
  ### Step 1. Clone the repository and navigate to the project folder:
  ```
 git clone https://github.com/tooomlr/Projet_IA.git
-
 ```
  
  ```
-cd chatgpt-retrieval-chatbot
+cd chatgpt-chatbot
 ```
 ### Step 2. Install Required Packages:
 Install Langchain, OpenAI, ChromaDB, tiktoken, unstructured, langchain-community, langchain-openai, and other required packages.
