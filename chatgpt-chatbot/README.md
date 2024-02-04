@@ -1,4 +1,4 @@
-# chatgpt-retrieval-chatbot
+# CHATGPT-ChatBot
 This is a simple script to create a conversational chatbot focused on cryptocurrencies such as BTC, ETH, and SOL using the ChatGPT API and your own dataset.
 
 ## Installation
